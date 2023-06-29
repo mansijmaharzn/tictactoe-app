@@ -1,16 +1,12 @@
 # tictactoe_app
+A Tic-Tac-Toe Game app made from flutter with ❤️
 
-A new Flutter project.
+### Downloading
+```
+https://drive.google.com/file/d/1UARqxj2FmOShixjXFdePtN2ZUgCozuQN/view?usp=sharing
+```
+You'll need to force Install it.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshots
+![ScreenshotPlaying](https://raw.github.com/mansijmaharzn/tictactoe-app/main/screenshots/screenshotPlaying.png)
+![ScreenshotWin](https://raw.github.com/mansijmaharzn/tictactoe-app/main/screenshots/screenshotWin.png)
