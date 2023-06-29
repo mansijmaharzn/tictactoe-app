@@ -8,5 +8,7 @@ https://drive.google.com/file/d/1UARqxj2FmOShixjXFdePtN2ZUgCozuQN/view?usp=shari
 You'll need to force Install it.
 
 ### Screenshots
-![ScreenshotPlaying](https://raw.github.com/mansijmaharzn/tictactoe-app/main/screenshots/screenshotPlaying.png)
-![ScreenshotWin](https://raw.github.com/mansijmaharzn/tictactoe-app/main/screenshots/screenshotWin.png)
+<p align="center">
+<img src="https://github.com/mansijmaharzn/tictactoe-app/blob/main/screenshots/screenshotPlaying.png" width="45%" height="100%" />
+<img src="https://github.com/mansijmaharzn/tictactoe-app/blob/main/screenshots/screenshotWin.png" width="45%" height="100%" />
+</p>
